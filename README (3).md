@@ -39,7 +39,7 @@ The dataset was found to be clean, with no missing, duplicate, or invalid record
 11. Who are the top 10 customers by total spending?
 12. Which payment method is most popular in each country?
 
-All SQL queries are available in [`e_commerce_queries.sql`](./e_commerce_queries.sql) and [`data_cleaning.sql`](./data_cleaning.sql).
+All SQL queries are available in [`e_commerce_queries.sql`](./SQL_QUERIES.sql).
 
 ## 💡 Key Insights
 - The e-commerce platform generated a total revenue of **$25.16 million** from 50,000 transactions, with an average purchase amount of **$503.16** per transaction.
@@ -58,4 +58,4 @@ All SQL queries are available in [`e_commerce_queries.sql`](./e_commerce_queries
 - How to translate raw SQL output into clear, non-technical business insights for stakeholders
 
 ## 👤 Author
-Lovey — Aspiring Data Analyst / MIS / Reporting professional, building a portfolio for the Dubai/UAE job market.
+Lovepreet — Aspiring Data Analyst / MIS / Reporting professional, building a portfolio for the Dubai/UAE job market.
